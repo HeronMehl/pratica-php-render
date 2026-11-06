@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 	<meta charset="UTF-8">
-	<title>Minha página PHP</title>
+	<title>Heron Ferreira Mehl</title>
 </head>
 <body>
 	<h1>
@@ -11,5 +11,6 @@
 		?>
 	</h1>
 	<p>Aplicação publicada no Render.</p>
+	 <p>Hospedagem de aplicações é o serviço que mantém o código de um sistema rodando em um servidor conectado à Internet, para que qualquer pessoa possa acessá-lo por uma URL pública sem depender do computador do desenvolvedor.</p>
 </body>
 </html>
